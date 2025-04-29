@@ -1,0 +1,30 @@
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #E9E4DA;
+  color: #2C2E3E;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #F7F4EF;
+  padding: 2rem;
+  text-align: center;
+}
+
+.subtitle {
+  color: #9E4F69; /* Muted Plum */
+  font-style: italic;
+}
+
+main {
+  padding: 2rem;
+  line-height: 1.8;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #F0ECE6;
+  font-size: 0.9rem;
+}
